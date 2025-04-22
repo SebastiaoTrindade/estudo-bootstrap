@@ -6,11 +6,29 @@
     width: 100px;
     height: 100px;
     background-color: red;
-    border: 1px solid black;
+    border: 1px solid #fff;
     color: white;
     margin: 10px;    
 }
 
 .col h1{
     font-size: 20px;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.row{
+    border-right: 2px solid #fff;
+    min-height: 250px;
+}
+
+.row h1{
+    font-size: 20px;    
+}
+
+.container.vertical{
+    margin-top: 10px;
 }

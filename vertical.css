@@ -1,0 +1,24 @@
+
+
+.col h1{
+    font-size: 20px;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+    border: 2px solid #fff;
+}
+
+.row{
+    border: 2px solid red;
+    min-height: 250px;
+}
+
+.row h1{
+    font-size: 20px;    
+}
+
+.container.vertical{
+    margin-top: 10px;
+}
